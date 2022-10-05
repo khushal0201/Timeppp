@@ -15,7 +15,7 @@ public class typ{
 	      public String sm() {
 	    	  return "<h1>hello bc</h1>"
 	    	  		+ "<form action='sing'>"
-	    	  		+ "enter name:<input type='button' name='yn' placeholder='yo mama'/>"
+	    	  		+ "enter name:<input type='text' name='yn' placeholder='yo mama'/>"
 	    	  		+ "<input type='submit'/>"
 	    	  		+ "</form>";
 	      }
