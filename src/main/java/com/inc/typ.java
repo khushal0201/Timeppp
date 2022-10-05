@@ -14,7 +14,7 @@ public class typ{
 	      @ResponseBody
 	      public String sm() {
 	    	  return "<h1>hello bc</h1>"
-	    	  		+ "<form action='/sing'>"
+	    	  		+ "<form action='sing'>"
 	    	  		+ "enter name:<input type='text' name='yn' placeholder='yo mama'/>"
 	    	  		+ "<input type='submit'/>"
 	    	  		+ "</form>";
