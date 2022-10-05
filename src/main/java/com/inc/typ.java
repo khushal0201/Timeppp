@@ -13,7 +13,7 @@ public class typ{
 	      @RequestMapping(value="/helo",method=RequestMethod.GET)
 	      @ResponseBody
 	      public String sm() {
-	    	  return "<h1>hello bc</h1>"
+	    	  return "<h1>hello biroooooo</h1>"
 	    	  		+ "<form action='sing'>"
 	    	  		+ "enter name:<input type='text' name='yn' placeholder='yo mama'/>"
 	    	  		+ "<input type='submit'/>"
